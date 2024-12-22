@@ -1,0 +1,5 @@
+	Git Init
+Remote -- Origin --> git remote add origin "url"
+git add "main.py" 
+git commit -m "Initial commit"
+git push origin master
